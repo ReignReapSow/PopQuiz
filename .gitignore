@@ -1,0 +1,11 @@
+# ignored files
+launch.json
+*.iml
+*.txt
+
+
+#ignored dirs
+
+includes/dbh/
+.idea/
+.vscode/
